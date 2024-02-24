@@ -14,12 +14,6 @@ export const Footer = () => {
             04128, м.Київ, вул. Хрещатик, 19 Ліцензія НБУ №156 Ⓒ ПАТ ЧіпЧендж,
             2019-2023
           </p>
-          <link
-            rel="icon"
-            href="/icon?<generated>"
-            type="image/<generated>"
-            sizes="<generated>"
-          />
         </div>
         <div>
           <Navigation column={true} />
